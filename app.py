@@ -10,7 +10,7 @@ st.title("📈 Tesla Stock Price Prediction")
 st.write("LSTM-based Time Series Forecasting Application")
 
 # Load model and scaler
-model = load_model("lstm_tesla_model.h5")
+model = load_model("lstm_tesla_model.keras")
 scaler = joblib.load("scaler.pkl")
 
 WINDOW_SIZE = 60
@@ -46,3 +46,4 @@ if st.button("Predict"):
         st.write(f"Day {i}: ₹ {price[0]:.2f}")
 
 st.caption("⚠ This is an academic project, not financial advice.")
+
