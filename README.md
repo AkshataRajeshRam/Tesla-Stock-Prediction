@@ -6,8 +6,9 @@ The trained model is deployed as an interactive **Streamlit web application** th
 
 ---
 
-<img width="787" height="638" alt="Screenshot 2026-01-12 183232" src="https://github.com/user-attachments/assets/16c1a1fb-01ca-489f-a364-bb17c54b2fc3" />
-
+<img width="787" height="638" alt="Screenshot 2026-01-12 183232" src="https://github.com/user-attachments/assets/16c1a1fb-01ca-489f-a364-bb17c54b2fc3" /> 
+<img width="1000" height="779" alt="Screenshot 2026-01-12 183202" src="https://github.com/user-attachments/assets/a8315eb9-d861-41f2-bdb3-8c893ad5a907" />
+<img width="1033" height="858" alt="Screenshot 2026-01-12 183221" src="https://github.com/user-attachments/assets/baa288cd-c2ac-4277-b1ad-2cf7a527e6f8" />
 
 
 ## 🚀 Project Overview
